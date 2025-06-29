@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import datetime
-
 import pendulum
 
 from airflow.operators.bash import BashOperator
